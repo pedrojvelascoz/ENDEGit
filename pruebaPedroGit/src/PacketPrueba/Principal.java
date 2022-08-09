@@ -7,7 +7,6 @@ public class Principal {
 		System.out.println("Segunda prueba");
 		System.out.println("Otra prueba");
 		System.out.println("Commit and push!");
-		System.out.println("Commit and push!");
 	}
 
 }
